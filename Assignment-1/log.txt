@@ -1,0 +1,32 @@
+Request Time: Mon Jan 20 2025 20:41:30 GMT+0530 (India Standard Time)
+Request IP: ::1
+Request URL: /
+Request Protocol: http
+Request Method: GET
+Host Name: localhost
+-----------------------------------
+Next Middleware
+Request Time: Mon Jan 20 2025 20:41:30 GMT+0530 (India Standard Time)
+Request IP: ::1
+Request URL: /favicon.ico
+Request Protocol: http
+Request Method: GET
+Host Name: localhost
+-----------------------------------
+Next Middleware
+Request Time: Mon Jan 20 2025 20:41:44 GMT+0530 (India Standard Time)
+Request IP: ::1
+Request URL: /about
+Request Protocol: http
+Request Method: GET
+Host Name: localhost
+-----------------------------------
+Next Middleware
+Request Time: Mon Jan 20 2025 20:42:00 GMT+0530 (India Standard Time)
+Request IP: ::1
+Request URL: /contact
+Request Protocol: http
+Request Method: GET
+Host Name: localhost
+-----------------------------------
+Next Middleware
